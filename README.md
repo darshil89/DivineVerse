@@ -2,6 +2,8 @@
 
 A knowledge graph-powered chatbot for exploring the stories, meanings, and mantras of deities.
 
+![Chat UI Screenshot](assets/chat-ui.png)
+
 ## Overview
 DivineVerse is an interactive web app that lets you ask questions about Hindu gods and receive insightful stories, meanings, and mantras, powered by a Neo4j knowledge graph and OpenAI.
 
