@@ -1,0 +1,12 @@
+fastapi
+pydantic
+pydantic_ai
+neo4j
+uvicorn
+python-dotenv
+fastapi
+fastapi-cors
+openai
+streamlit
+numpy
+requests
