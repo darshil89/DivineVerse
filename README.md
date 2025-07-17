@@ -49,9 +49,9 @@ DivineVerse is an interactive web app that lets you ask questions about Hindu go
 
 ## Screenshots
 
-| Chat UI | Backend API |
-|---------|------------|
-| ![Chat UI](assets/ui.png) | ![API Example](screenshots/api-example.png) |
+| Chat UI |
+|---------|
+| ![Chat UI](assets/ui.png) |
 
 > _Replace the above image paths with your actual screenshots after running the app._
 
